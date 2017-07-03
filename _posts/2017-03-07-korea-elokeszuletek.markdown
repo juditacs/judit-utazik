@@ -19,15 +19,15 @@ Szkeptikus voltam az információval kapcsolatban, ezért felhívtam őket és m
 Megcsináltattam a képet és naívan azt gondoltam, hogy az időutazásnak a 20. századba ezzel vége, azonban nagyon tévedtem.
 A nemzetközi jogosítvány így néz ki kívülről:
 
-![Nemzetközi jogosítvány kívülről]({{ site.url }}/img/nemzetkozi_jogsi.jpg){:height="500px" }
+![Nemzetközi jogosítvány kívülről]({{ site.baseurl }}/img/nemzetkozi_jogsi.jpg){:height="500px" }
 
 Belül van egy kihajtható oldala, amire stift ragasztóval ragasztották be az igazolványképemet, mindezt egy méterre a webkamerától, amivel a normális igazolványokhoz készítik a képeket.
 Az első, magyar oldalon szerepelnek az adataim, a többi ugyanaz más nyelveken kitöltetlenül.
 A kihajtható oldallal együtt igyekeztem lefényképezni, ennyire sikerült:
 
-![Nemzetközi jogosítvány belülről]({{ site.url }}/img/nemzetkozi_jogsi2.jpg){:height="400px" }
+![Nemzetközi jogosítvány belülről]({{ site.baseurl }}/img/nemzetkozi_jogsi2.jpg){:height="400px" }
 
-![Nemzetközi jogosítvány belülről]({{ site.url }}/img/nemzetkozi_jogsi3.jpg){:height="400px" }
+![Nemzetközi jogosítvány belülről]({{ site.baseurl }}/img/nemzetkozi_jogsi3.jpg){:height="400px" }
 
 Közben végeztem egy közvéleménykutatást a tábor résztvevői közt és akik már láttak nemzetközi jogosítványt, rögtön felismerték, a többiek csak miután kinyitották.
 Gondolom a 68-as egyezmény értelmében más országok is hasonló sajtpapírokat állítanak ki.
