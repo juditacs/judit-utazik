@@ -14,7 +14,7 @@ Néhány napi keresgélés után sikerült olyan repülőjegyet venni, amivel vi
 ## Nemzetközi jogosítvány
 
 A sok apró-cseprő feladat közül egyedül a nemzetközi jogosítvány készíttetése ugrik ki.
-Az interneten tájékozódva azt rebesgették, hogy az okmányirodákban (vagy most már kormánykapu) lehet kiváltani, de vinni kell magunkkal igazolványképet.
+Az interneten tájékozódva azt rebesgették, hogy az okmányirodákban (vagy most már kormányablak) lehet kiváltani, de vinni kell magunkkal igazolványképet.
 Szkeptikus voltam az információval kapcsolatban, ezért felhívtam őket és megnyugtattak, hogy nem kell vinni, majd miután bementem közölték, hogy mégis kellett volna igazolványkép, a túloldalon van egy fényképészet, ott csináltathatok.
 Megcsináltattam a képet és naívan azt gondoltam, hogy az időutazásnak a 20. századba ezzel vége, azonban nagyon tévedtem.
 A nemzetközi jogosítvány így néz ki kívülről:
