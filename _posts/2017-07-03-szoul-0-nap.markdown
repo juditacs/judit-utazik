@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Szöul 0. nap"
+date:   2017-07-03 23:00 +0900
+categories: mljeju
+---
+
+## Utazás
+
+Néhány hetes [előkészület](https://juditacs.github.io/judit-utazik/mljeju/2017/07/03/korea-elokeszuletek.html) után június 30-án elindultam Koreába.
+Szerencsére egyetlen prágai átszállással megúsztam a dolgot, ahol kicsit kevesebb, mint 3 órát kellett várnom és még egy kb. 3 eurós sör is belefért.
+A Budapest-Prága vonal meglepő módon nem a világ legforgalmasabb repülőútvonala, az utasok alapján kizárólag amerikai és koreai átszállás miatt veszik igénybe, úgyhogy az első picike repülőgép után nagy kontraszt volt a Korean Air Lines Boeing 747-ese.
+Az utastérben mindenféle csomagolt apróság fogadott a széken: fogkefe, takaró, párna, fejhallgató és víz (Jeju purewater).
+A személyzet végtelenül kedves volt, de legjobban a stewardessek egyen [hajtűje](https://www.pinterest.se/pin/489344315731021356/) tetszett.
+Persze aludni nehezen tudtam, félóránként nyakfájásra ébredtem, de talán nem is baj, mert így másnap estéig kihúztam, majd egy 10 órás alvással megúsztam a jetlaget.
+Helyi idő szerint délben szállt le a gép, ami otthon hajnali 5 óra volt.
+
+A nagyobbik szöuli reptéren az Incheonon szálltunk le, majd onnan metró vitt be a városba.
+A szöuli metró gyors, tiszta és olcsó, a metróhálózat pedig nagy.
+Sajnos a telefonom nem működik, nem tudok egyetlen hálózathoz se csatlakozni, pedig már mindenféle beállítást próbáltam.
+A Couchsurfing hostommal így csak akkor tudtam kommunikálni, amikor valamilyen kósza wifire sikerült csatlakozni, ezekből szerencsére akad a metróállomásokon.
+
+## Ételek
+
+Ezután jött az eddigi kedvenc dolgom ebben az országban: az ételek.
+
+Miután lepakoltam, vendégfogadóm elvitt egy közeli étterembe és ettem Gimbapot (koreai sushit).
+Egy tekersz 4200 Wonba kerül, ami nagyjából 1000 Ft.
+Levest korlátlanul csapolhatunk egy nagy bödönből, úgy mint a balatoni táborokban a menzateát.
+A kimchit és a sárga retket azonnal az asztalunkra tették, ahogy leültünk.
+
+![Ebéd]({{ site.baseurl }}/img/gimbap_etterem.jpg)
+
+## Első benyomásom Szöulról
+
+Utána a vendégfogadóm visszament tanulni én meg sétáltam egyet a városban.
+A városban sétálva úgy éreztem mintha egy balkáni városban lennék: girbe-gurba utcák, lepukkant házak, zajló élet.
+A vezetési stílus viszont nem is hasonlít a balkánihoz: sok az autó, elég jó az autópark, viszont nagyon nyugodtak, dudaszót szinte csak robogósoktól hallani.
+Robogó is sok van, motorosbolt meg aztán minden sarkon.
+Eleve úgy tűnt, hogy a boltok többsége motorbolt vagy mobilüzlet.
+Biciklisek alig vannak, sajnos a domborzat megnehezíti a biciklis közlekedést.
+Egyetlen macskát sem láttam, kutyát is csak négyet, mindegyiket motorosboltban vagy előtte.
+Az egyik kutyának a gazdájával beszélgettem is, 26 éve itt élő amerikai veterán.
+
+Rengeteg építkezés van, amiken az amerikai elmondása szerint éjszaka dolgoznak (ehhez hozzátett még némi konzervatív dumát is a szakszervezetekről és a drága és lassú amerikai munkásokról).
+
+Az egyik építkezésekkel teli utcán egy fának az öntözéséhez különleges megoldást alkalmaznak:
+
+![Öntöző]({{ site.baseurl }}/img/seoul_ontozo.jpg)
+
+Elsétáltam még a Dongdaemun Design Plaza (DDP) nevű bevásárlóközponthoz/kiállítóteremhez, ami egy futurusztikus fura épület, mellett még furább szobrokkal.
+Erről nem sikerült értelmes képet csinálnom, majd legközelebb fogok.
+
+Kicsit meglepődtem mikor besétáltam egy orosz negyedbe, de úgy tűnik sok itt az orosz, a bolti eladók beszéltek oroszul (a koreaiak is).
+
+![Orosz táblák]({{ site.baseurl }}/img/orosz_negyed.jpg)
+
+Az első napom Szöulban remekül sikerült, kicsit őrült, de alapvetően hangulatos város.
+
