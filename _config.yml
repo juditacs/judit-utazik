@@ -17,7 +17,7 @@ title: Judit utazik
 email: judit@sch.bme.hu
 description: > # this means to ignore newlines until "baseurl:"
     Utazásaimról
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/judit-utazik" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: acsjudit
 github_username:  juditacs
