@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Korea - előkészületek"
-date:   2017-07-03 21:00 +0900
+date:   2017-07-03 21:10 +0900
 categories: mljeju
 ---
 
